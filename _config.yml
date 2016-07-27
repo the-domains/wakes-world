@@ -1,4 +1,3 @@
-layout_spectrum: 0.04937488888390362
 typography_spectrum: 0.1114925800357014
 color:
   brandStrength: 0.010836690897122025
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.04937488888390362
 name: Wakes World
 title: Wakes World
+description: A little glimpse of life in the Peak District
